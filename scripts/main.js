@@ -150,7 +150,7 @@ generateBtn.addEventListener("click", () => {
 startBtn.addEventListener("click", () => startSorting());
 
 // Update this link as needed
-githubLink.href = "https://github.com/YourRepoHere";
+githubLink.href = "https://github.com/neutrino-ashutosh/Sorting-Visualiser-in-JS";
 
 generateBars(parseInt(numBarsInput.value));
 updateAlgorithmInfo(algorithmSelect.value);
